@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Jason Wu"
+contentDir = 'content/'
+
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  # logo = "img/logo.png"
+  description = "About Me Website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Jason Wu"
+  image = "img/avatar.jpg"
+  headline = "Cloud & DevOps Enthusiast"
+   links = [
+     { github = "https://github.com/Jason-S-Wu" },
+   ]
